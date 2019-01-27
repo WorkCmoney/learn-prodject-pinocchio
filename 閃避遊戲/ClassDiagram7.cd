@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="閃避遊戲.space" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAQEQAAAAAAAABBAAAAAAARgAIAAIAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game1_circle" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game1_moster1" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAAACACBBAEAACAAIAAAAgIAAAAAAAIAgAAiAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.game2_playerball" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACACAAAAAACAAAAAAAAIAAAAAAAAAgAAiAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.game2_wall" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game2_eatball" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.game3_player" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQQAAAAAAgEABAQAAAICACGAgAgAAAAAQBABAAAgAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game3_sword" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.game3_swordup" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.game3_arrowright" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.game3_arrowleft" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.Form1" Collapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAQAACAAABAAAACAAAACAAUIIACAAURgAABAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game1" Collapsed="true">
+    <Position X="26.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAgADAAABCAAACMAAACQQEAYAABAIRgAwAAQAA=</HashCode>
+      <FileName>game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game2" Collapsed="true">
+    <Position X="23.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIQAAKAAABCAAAKIAAACEEAAJAAAEQBwGAAQAAA=</HashCode>
+      <FileName>game2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game_3" Collapsed="true">
+    <Position X="25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMQCAAAIACAAABCABFDECAACAAQIIQBBQARgCQBEiAA=</HashCode>
+      <FileName>game3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.level_control" Collapsed="true">
+    <Position X="25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAAACCAAAACAEA4BAAAAHAIAAAAAAA=</HashCode>
+      <FileName>level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Program" Collapsed="true">
+    <Position X="26.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.score_control" Collapsed="true">
+    <Position X="25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACJACACAAAIAAAAAEAAACAAAAA=</HashCode>
+      <FileName>score control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Properties.Resources" Collapsed="true">
+    <Position X="23.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Properties.Settings" Collapsed="true">
+    <Position X="26.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="閃避遊戲.Icollision" Collapsed="true">
+    <Position X="23.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="閃避遊戲.Imoving_methods" Collapsed="true">
+    <Position X="25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>circle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>

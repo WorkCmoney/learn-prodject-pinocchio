@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="閃避遊戲.game.Game1_player" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game1_class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game.Game1_monster1" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAABCACBBAEAACAAIAAAAgIAAAAAAAIAgAAiAA=</HashCode>
+      <FileName>Class_Actor\Game1_class.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.game.Game1_eatball" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game1_class.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.game.Teach1" Collapsed="true">
+    <Position X="58.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABQAACAAAAQAQESAAAACEAAgAAAgAABgAABAAAA=</HashCode>
+      <FileName>control\Teach1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game2_playerball" Collapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAAACACAAAAAACAAABAAEAIABAAQAAAAwAAqAA=</HashCode>
+      <FileName>Class_Actor\Game2_class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game2_wall" Collapsed="true">
+    <Position X="41" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAIAEAAAAAEAAAAAAAAAI=</HashCode>
+      <FileName>Class_Actor\Game2_class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game2_brain" Collapsed="true">
+    <Position X="45.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAACAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game2_class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game2_eatball" Collapsed="true">
+    <Position X="50" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game2_class.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game2_canteatball" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game2_class.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game3_player" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQQAAAAAAgEABAQAAAICAKWAgAgAAAAAQBABAAAgAA=</HashCode>
+      <FileName>Class_Actor\Game3_class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game3_Spider" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAACABAAAACAAAAAAAiAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game3_class.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game3_flowerup" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAABAAAACAAAAAAAiAAAAAEAAAAgAAAAA=</HashCode>
+      <FileName>Class_Actor\Game3_class.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game3_Attack_right" Collapsed="true">
+    <Position X="29.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAABAAAABAEAACAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game3_class.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game3_feather" Collapsed="true">
+    <Position X="43.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAABAAAACAAAAAAAgIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game3_class.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game3_heart" Collapsed="true">
+    <Position X="47.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game3_class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game3_road" Collapsed="true">
+    <Position X="52.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game3_class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.Game3_Hp" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAEABAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\Game3_class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Class_Actor.game2first" Collapsed="true">
+    <Position X="57" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAQAACAAAAQEQASAAAACEAAgIACgCQBgAQBAgQA=</HashCode>
+      <FileName>control\game2first.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.music" Collapsed="true">
+    <Position X="58.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Record" Collapsed="true">
+    <Position X="62.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAABAAQAAAAAAAEAgIAAAAAQBAACACBAAAAAAAAIA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Drawing_objects" Collapsed="true">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAQEQAAAAAAAABBAAAAAAARgAIAAIAA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.drawline" Collapsed="true">
+    <Position X="54.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Meautext" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAAEAAAAAAAAAAAAAGAgAAAEAAAAAQA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.starttext" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Actortext" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAAEAAAAAAAAAAAAAAAgAAAAAAAAAQA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.what_to_do" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAAEAAAAAAAAAAAAAAAgAAAAAAAAAQA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.draw_click" Collapsed="true">
+    <Position X="35.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAIAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.skip">
+    <Position X="34.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.levelGAME1" Collapsed="true">
+    <Position X="36.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.levelGAME2" Collapsed="true">
+    <Position X="38.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.levelGAME3">
+    <Position X="32" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game2p" Collapsed="true">
+    <Position X="58.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACACAAAAAASAAAQCAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>control\game2p.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.level_control" Collapsed="true">
+    <Position X="62.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQBIgACADgAAQAAECCAQAACCIAAICAQAAAAoAAAZIA=</HashCode>
+      <FileName>control\level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.win_control2" Collapsed="true">
+    <Position X="60.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAQAIAQAACAAAgQEQASAAAACEAAgAACgGQBgAQBAARA=</HashCode>
+      <FileName>control\win_control2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Game1" Collapsed="true">
+    <Position X="60.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAoACjACAAAJCQAAKAACACTQEARAADGERwBABKQAA=</HashCode>
+      <FileName>game\game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game2" Collapsed="true">
+    <Position X="64" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAACAKAABBCAAE6JACwCEEAJBQAwEBDyDABIoRA=</HashCode>
+      <FileName>game\game2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.game_3" Collapsed="true">
+    <Position X="58.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMQDoUAAICAAIECAAFSMCCACAAIIAQAAgOBgLEBMmBA=</HashCode>
+      <FileName>game\game3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.menu" Collapsed="true">
+    <Position X="57" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAUAIAAEQCAAIEAAAACAAAQCAAABAAQBkAAQAIBAAAA=</HashCode>
+      <FileName>game\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Program" Collapsed="true">
+    <Position X="60.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>game\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.control.End" Collapsed="true">
+    <Position X="57" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAQAIAQAACAAAASEQASAAAACEAAgIACgCSBgAQBAAQA=</HashCode>
+      <FileName>control\End.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.control.game1first" Collapsed="true">
+    <Position X="62.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAIAQAACAAAASEQACEAAACEAAgIACgCQBgAQBAAQA=</HashCode>
+      <FileName>control\game1first.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.control.game3first" Collapsed="true">
+    <Position X="60.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAQAACAAAAQEQESAABACEAAgAACgCQBgAQBAAQA=</HashCode>
+      <FileName>control\game3first.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.control.lose_control" Collapsed="true">
+    <Position X="64" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAQAICQAACIAAgQEQACAAAACEAAgIACgCQBgAQBAAQA=</HashCode>
+      <FileName>control\lose_control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.control.Teach12" Collapsed="true">
+    <Position X="60.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAACAAAAAAAASAQAACAAAgAAAAAAAAAABAAAA=</HashCode>
+      <FileName>control\Teach12.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.control.Teach13" Collapsed="true">
+    <Position X="62.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAACAAAAAAAASAQAACAAAgAAAAAAAAAABAAAA=</HashCode>
+      <FileName>control\Teach13.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.control.Teach2" Collapsed="true">
+    <Position X="64" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQIAQAACAAAAQEQASAAAACEAAgIAAgAABgAABAAAA=</HashCode>
+      <FileName>control\Teach2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.control.Teach3" Collapsed="true">
+    <Position X="57" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQQIAQAACAAAAQEQASAAAACEAAgIAAgAQBgAABAAAA=</HashCode>
+      <FileName>control\Teach3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.control.win_control1" Collapsed="true">
+    <Position X="58.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAQAAIQAACAAAgQEQESAAAACEAAgIAigCQBgAQBAAQA=</HashCode>
+      <FileName>control\win_control1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.control.win_control3" Collapsed="true">
+    <Position X="62.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAQAAIQAACAAAgQEQESAAAACEAAgIAigCQBgAQBAAQA=</HashCode>
+      <FileName>control\win_control3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Properties.Resources" Collapsed="true">
+    <Position X="64" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAoAEAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="閃避遊戲.Properties.Settings" Collapsed="true">
+    <Position X="57" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="閃避遊戲.Icollision" Collapsed="true">
+    <Position X="57" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="閃避遊戲.Imoving_methods" Collapsed="true">
+    <Position X="58.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Class_Actor\menu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
