@@ -8,5 +8,5 @@ my_firstgame
 影片內容 https://youtu.be/BRn3WZDUe7A
 
 
-#遊戲素材 音樂 非本人原創
+#遊戲素材 音樂 來自網路
 
